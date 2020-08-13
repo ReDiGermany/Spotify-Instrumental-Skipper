@@ -1,0 +1,20 @@
+﻿<Window x:Class="Spotify_Instrumental_Skipper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spotify_Instrumental_Skipper"
+        mc:Ignorable="d"
+        Title="Spotify Songskipper" Height="200" Width="400" Background="Black" Foreground="White" WindowStyle="ToolWindow" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20px"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Background="#202020" Foreground="#fff" FontWeight="Bold" Name="_status" Height="20px" Padding="5px 0" Grid.Column="1" Grid.Row="0">{Loading}</Label>
+        <ScrollViewer Background="#202020" Foreground="#eee" VerticalScrollBarVisibility="Auto" Name="_scroll" Grid.Row="1" Grid.Column="1" Padding="5px 0"  >
+            <TextBlock Name="_log" />
+        </ScrollViewer>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\bin\Debug\Spotify-Instrumental-Skipper.exe.config
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\bin\Debug\Spotify-Instrumental-Skipper.exe
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\bin\Debug\Spotify-Instrumental-Skipper.pdb
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper.csprojAssemblyReference.cache
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\MainWindow.g.cs
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\App.g.cs
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper_MarkupCompile.cache
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper_MarkupCompile.lref
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\MainWindow.baml
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper.g.resources
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify_Instrumental_Skipper.Properties.Resources.resources
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper.csproj.GenerateResource.cache
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper.exe
+C:\Users\suppo\source\repos\Spotify-Instrumental-Skipper\Spotify-Instrumental-Skipper\obj\Debug\Spotify-Instrumental-Skipper.pdb
